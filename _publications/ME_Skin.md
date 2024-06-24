@@ -3,8 +3,8 @@ title: "Toward Fairness Through Fair Multi-Exit Framework for Dermatological Dis
 collection: publications
 permalink: 
 excerpt: ''
-date: 2023/10/1
-venue: 'International Conference on Medical Image Computing and Computer Assisted Intervention'
+date: 2023/10/01
+venue: 'International Conference on Medical Image Computing and Computer Assisted Intervention 2023'
 slidesurl: ''
 paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_10)'
 citation: 'Chiu, Ching-Hao, et al. "Toward Fairness Through Fair Multi-Exit Framework for Dermatological Disease Diagnosis." International Conference on Medical Image Computing and Computer-Assisted Intervention. Cham: Springer Nature Switzerland, 2023.'
