@@ -1,7 +1,7 @@
 ---
 title: "Representative image feature extraction via contrastive learning pretraining for chest x-ray report generation"
 collection: publications
-permalink: '[/publication/](https://arxiv.org/abs/2209.01604)'
+permalink: 'https://arxiv.org/abs/2209.01604'
 excerpt: ''
 date: 2022/9/4
 venue: 
