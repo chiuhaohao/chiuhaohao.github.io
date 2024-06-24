@@ -3,7 +3,7 @@ title: "Fair Multi-Exit Framework for Facial Attribute Classification"
 collection: publications
 permalink: 
 excerpt: ''
-date: 2023-02
+date: 2023/02/01
 venue: 'AAAI 2023 Workshop on Artificial Intelligence for Social Good'
 paperurl: 'https://arxiv.org/abs/2301.02989'
 citation: 'Chiu, Ching-Hao, et al. "Fair Multi-Exit Framework for Facial Attribute Classification." arXiv preprint arXiv:2301.02989 (2023).'
