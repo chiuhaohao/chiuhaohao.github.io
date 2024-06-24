@@ -7,6 +7,8 @@
 # server process.
 
 # Basic Site Settings
+
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale                   : "en-US"
 title                    : "Ching-Hao Chiu"
 title_separator          : "-"
