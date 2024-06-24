@@ -16,10 +16,10 @@ I am enthusiastic about leveraging my expertise and adept problem-solving skills
 
 News
 ====== 
-One paper "Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis" is early accepted by MICCAI (International Conference on Medical Image Computing and Computer Assisted Intervention) 2024 (Acceptance rate 11%)!
+One paper "Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis" is early accepted by **MICCAI** (International Conference on Medical Image Computing and Computer Assisted Intervention) 2024 (Acceptance rate 11%)!
 
-One paper "Achieve Fairness without Demographics for Dermatological Disease Diagnosis" is accepted by Medical Image Analysis (Impact Factor : 10.9)!
+One paper "Achieve Fairness without Demographics for Dermatological Disease Diagnosis" is accepted by **Medical Image Analysis** (Impact Factor : 10.9)!
 
-One paper "Toward Fairness Through Fair Multi-Exit Framework for Dermatological Disease Diagnosis" is accepted by MICCAI (International Conference on Medical Image Computing and Computer Assisted Intervention) 2023!
+One paper "Toward Fairness Through Fair Multi-Exit Framework for Dermatological Disease Diagnosis" is accepted by **MICCAI** (International Conference on Medical Image Computing and Computer Assisted Intervention) 2023!
 
 
