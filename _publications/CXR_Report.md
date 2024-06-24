@@ -3,7 +3,7 @@ title: "Representative image feature extraction via contrastive learning pretrai
 collection: publications
 permalink: 
 excerpt: ''
-date: 2022/09/04
+date: 2022/09
 venue: 
 slidesurl: 
 paperurl: 'https://arxiv.org/abs/2209.01604'
