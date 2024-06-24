@@ -3,7 +3,7 @@ title: "Achieving Fairness Through Channel Pruning for Dermatological Disease Di
 collection: publications
 permalink: 
 excerpt: ''
-date: 2024/05/14
+date: 2024/10/01
 venue: 'International Conference on Medical Image Computing and Computer Assisted Intervention 2024'
 slidesurl: ''
 paperurl: '[[http://academicpages.github.io/files/paper3.pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_10)](https://arxiv.org/abs/2405.08681)'
