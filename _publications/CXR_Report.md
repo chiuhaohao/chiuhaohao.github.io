@@ -1,12 +1,12 @@
 ---
 title: "Representative image feature extraction via contrastive learning pretraining for chest x-ray report generation"
 collection: publications
-permalink: 'https://arxiv.org/abs/2209.01604'
+permalink: 
 excerpt: ''
 date: 2022/9/4
 venue: 
 slidesurl: 
-paperurl: 
+paperurl: 'https://arxiv.org/abs/2209.01604'
 citation: 'Chen, Yu-Jen, et al. "Representative image feature extraction via contrastive learning pretraining for chest x-ray report generation." arXiv preprint arXiv:2209.01604 (2022).'
 ---
 
