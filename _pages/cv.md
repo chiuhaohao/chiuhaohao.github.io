@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Ching_Hao_CV.pdf](https://github.com/user-attachments/files/15951389/Ching_Hao_CV.pdf)
+<embed src="{{ site.baseurl }}/files/CV.pdf" width="600" height="700" type='application/pdf'>
