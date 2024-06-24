@@ -5,7 +5,6 @@ permalink:
 excerpt: ''
 date: 2024/10/01
 venue: 'International Conference on Medical Image Computing and Computer Assisted Intervention 2024'
-slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2405.08681'
 citation: 'Kong, Qingpeng, et al. "Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis." arXiv preprint arXiv:2405.08681 (2024).'
 ---
