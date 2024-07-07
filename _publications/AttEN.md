@@ -7,7 +7,7 @@ date: 2024/07/01
 venue: 'Medical Image Analysis'
 slidesurl: 
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1361841524001130?via%3Dihub'
-citation: 'Chiu, Ching-Hao, et al. "Achieve Fairness without Demographics for Dermatological Disease Diagnosis." arXiv preprint arXiv:2401.08066 (2024).'
+citation: 'Chiu, Ching-Hao, et al. "Achieve fairness without demographics for dermatological disease diagnosis." Medical Image Analysis 95 (2024): 103188.'
 ---
 <img width="796" alt="截圖 2024-06-24 下午2 54 38" src="https://github.com/chiuhaohao/chiuhaohao.github.io/assets/53943319/2ffaaebc-8619-46a4-926d-c5b8b2dcc6c7">
 
