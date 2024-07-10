@@ -7,12 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+👋 Greetings, I’m Ching-Hao, a deep learning researcher dedicated to applying AI to healthcare. I received my bachelor’s and master’s degrees in Computer Science from National Tsing Hua University. I will begin my PhD in Computer Science and Engineering at the University of Notre Dame in Fall 2025.
 
-👋 Greetings, I'm Ching-Hao, a dedicated deep learning researcher driven by a profound passion for AI for healthcare and equality of AI. I received my bachelor's degree and master's in Computer Science from National Tsing Hua University. I am the incoming PhD student at University of Notre Dame in Computer Science and Engineering program. 
-  
-As a former student and visiting researcher at [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/) at [Theta Lab](http://theta.cs.nthu.edu.tw/) and [University of Notre Dame](https://www.nd.edu/) at [Sustainable Computing Laboratory (SCL) Lab](https://www3.nd.edu/~scl/index.html), I focused on connecting robustness, generalization, and fairness, through the unsupervised or weakly supervised learning manners in medical domain and yielded several research papers at top conferences and journal (AAAI, MICCAI, Medical Image Analysis) of machine learning and medical image.
+As a researcher at the [Theta Lab](http://theta.cs.nthu.edu.tw/) of [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/) and the [Sustainable Computing Laboratory (SCL) Lab](https://www3.nd.edu/~scl/index.html) of the [University of Notre Dame](https://www.nd.edu/), I focus on promoting fairness in AI diagnostics in the medical field. I have published several research papers in top conferences and journals, including AAAI, MICCAI, and Medical Image Analysis.
 
-I am enthusiastic about leveraging my expertise and adept problem-solving skills on a global scale. Currently, I am in active pursuit of a summer internship opportunity within the United States. Please don't hesitate to reach out to me to talk about potential openings.
+My research primarily focuses on AI for healthcare, AI fairness, and computer vision. I am passionate about leveraging my expertise and strong problem-solving skills on a global scale. If you are interested in my work or would like to collaborate, feel free to contact me via email: cchiu3@nd.edu.
 
 News
 ====== 
